@@ -8,12 +8,12 @@ import { Layers, Navigation, Plus, Minus, Compass, Maximize2 } from 'lucide-reac
 const TILE_LAYERS = {
   voyager: {
     name: "CartoDB Voyager (Claro Moderno)",
-    url: "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",
+    url: "https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png?key=cb1_2vhd_1_ecbb4873526f384d73614efd",
     attribution: '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   },
   dark: {
     name: "CartoDB Dark Matter (Elegante Oscuro)",
-    url: "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+    url: "https://basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png?key=cb1_2vhd_1_ecbb4873526f384d73614efd",
     attribution: '&copy; <a href="https://carto.com/">CARTO</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   },
   osm: {
