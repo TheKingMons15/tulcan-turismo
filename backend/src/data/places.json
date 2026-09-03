@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "cementerio-municipal-jose-maria-azael-franco",
+    "name": "Cementerio Municipal José María Azael Franco Guerrero",
+    "shortName": "Cementerio de Tulcán (Cipreses)",
+    "category": "turismo",
+    "categoryLabel": "Turismo & Patrimonio",
+    "description": "Famoso mundialmente por su impresionante arte de topiaria en árboles de ciprés. Declarado Patrimonio Cultural del Estado en 1984. Cuenta con más de 8 hectáreas de figuras talladas de culturas precolombinas, egipcias, romanas y fauna andina.",
+    "history": "Fundado en 1932 tras el terremoto de 1923 que destruyó el antiguo panteón de la Loma de Santiago. En 1936, Don José María Azael Franco, Jefe de Parques, inició la técnica de esculpir los cipreses aprovechando la tierra calcárea. Su obra fue continuada por sus hijos y declarada joya patrimonial del Ecuador.",
+    "address": "Av. Cotopaxi y Av. El Cementerio, Tulcán",
+    "coordinates": {
+      "lat": 0.8122,
+      "lng": -77.7236
+    },
+    "hours": "Lunes a Domingo de 08:00 a 18:00 (365 días del año)",
+    "phone": "(06) 298-0440",
+    "website": "https://gmtulcan.gob.ec",
+    "price": "$1.00 Turistas Nacionales / $2.00 Turistas Extranjeros (Gratis para carchenses)",
+    "interestLevel": "Muy Alto",
+    "rating": 4.9,
+    "reviewsCount": 3840,
+    "tags": [
+      "cipres",
+      "esculturas",
+      "patrimonio",
+      "topiaria",
+      "imperdible",
+      "fotografia",
+      "arte",
+      "arquitectura"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Se recomienda visitar en horas de la mañana para aprovechar la mejor luz fotográfica. Respeta el silencio y las áreas ajardinadas.",
+    "nearbyIds": [
+      "parque-isidro-ayora",
+      "casa-de-la-cultura-carchi",
+      "iglesia-la-dolorosa"
+    ]
+  },
+  {
+    "id": "puente-internacional-rumichaca",
+    "name": "Puente Internacional de Rumichaca y Antigua Casa de Aduanas",
+    "shortName": "Puente Rumichaca (Frontera)",
+    "category": "turismo",
+    "categoryLabel": "Turismo & Patrimonio",
+    "description": "Principal paso fronterizo binacional entre Ecuador y Colombia sobre la garganta del río Guáitara / Carchi. Incluye el puente natural de roca que le da nombre ('Puente de Piedra' en quechua) y la histórica Casa de Aduanas restaurada.",
+    "history": "Paso estratégico desde la época preincaica y de la Real Audiencia de Quito. En el siglo XIX y XX fue escenario de acuerdos diplomáticos y tránsito comercial. La Casa de Aduanas conserva arquitectura republicana de alto valor histórico.",
+    "address": "Panamericana Norte km 7, Frontera Ecuador-Colombia",
+    "coordinates": {
+      "lat": 0.814,
+      "lng": -77.6641
+    },
+    "hours": "Paso vehicular y peatonal abierto 24 horas (Control migratorio 24/7)",
+    "phone": "(06) 298-0111",
+    "website": "https://www.cancilleria.gob.ec",
+    "price": "Acceso libre y gratuito",
+    "interestLevel": "Muy Alto",
+    "rating": 4.6,
+    "reviewsCount": 1420,
+    "tags": [
+      "frontera",
+      "colombia",
+      "historia",
+      "rio guaitara",
+      "comercio",
+      "rumichaca",
+      "aduana"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Si cruzas hacia Ipiales / Las Lajas, lleva tu documento de identidad o pasaporte vigente y realiza el registro migratorio si te internarás en Colombia.",
+    "nearbyIds": [
+      "monumento-richard-carapaz",
+      "terminal-terrestre-tulcan"
+    ]
+  },
+  {
+    "id": "monumento-al-pupo",
+    "name": "Monumento al Pupo Carchense",
+    "shortName": "Monumento al Pupo",
+    "category": "turismo",
+    "categoryLabel": "Turismo & Patrimonio",
+    "description": "Escultura emblemática que honra la identidad, valentía, nobleza y rebeldía del pueblo de Tulcán y Carchi. El término 'Pupo' (cabeza / líder) es símbolo indiscutible de honor carchense.",
+    "history": "Surgió durante las gestas libertarias y liberales del siglo XIX, cuando los soldados carchenses lideraron con firmeza las fronteras patrias. Hoy representa el coraje y la hospitalidad norteña.",
+    "address": "Av. Veintimilla y salida sur de Tulcán",
+    "coordinates": {
+      "lat": 0.8065,
+      "lng": -77.718
+    },
+    "hours": "Acceso libre 24 horas (Plaza pública iluminada)",
+    "phone": "(06) 298-0440",
+    "price": "Gratuito",
+    "interestLevel": "Alto",
+    "rating": 4.5,
+    "reviewsCount": 650,
+    "tags": [
+      "identidad",
+      "historia",
+      "monumento",
+      "cultura",
+      "simbolo",
+      "fotografia"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": true,
+    "tips": "Ubicado en una de las rotondas de ingreso a la ciudad, ideal para fotos panorámicas al atardecer con buena iluminación.",
+    "nearbyIds": [
+      "obelisco-de-tulcan",
+      "parque-de-la-independencia"
+    ]
+  },
+  {
+    "id": "monumento-richard-carapaz",
+    "name": "Homenaje y Monumento al Ciclismo - Richard Carapaz",
+    "shortName": "Monumento a Richard Carapaz",
+    "category": "turismo",
+    "categoryLabel": "Turismo & Patrimonio",
+    "description": "Tributo a la 'Locomotora del Carchi', Richard Carapaz Montenegro, campeón del Giro de Italia 2019 y Medalla de Oro Olímpica Tokio 2020. En la provincia existen homenajes en Playa Alta (El Carmelo) y el Mirador del Ciclista en Tulcán.",
+    "history": "Carapaz nació y entrenó en las altas cumbres del Carchi a más de 3.000 metros de altitud, convirtiendo a Tulcán en la capital indiscutible del ciclismo ecuatoriano.",
+    "address": "Sector Playa Alta / Parroquia El Carmelo & Mirador del Ciclista",
+    "coordinates": {
+      "lat": 0.785,
+      "lng": -77.602
+    },
+    "hours": "Acceso libre",
+    "phone": "N/A",
+    "price": "Gratuito",
+    "interestLevel": "Muy Alto",
+    "rating": 4.9,
+    "reviewsCount": 890,
+    "tags": [
+      "ciclismo",
+      "deporte",
+      "richard carapaz",
+      "giro de italia",
+      "campeon",
+      "el carmelo"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Ruta favorita de cicloturistas que recorren las carreteras de entrenamiento del campeón olímpico.",
+    "nearbyIds": [
+      "puente-internacional-rumichaca"
+    ]
+  },
+  {
+    "id": "obelisco-de-tulcan",
+    "name": "Obelisco Cívico de Tulcán",
+    "shortName": "Obelisco de Tulcán",
+    "category": "turismo",
+    "categoryLabel": "Turismo & Patrimonio",
+    "description": "Monumento cívico ubicado en el redondel sur de la ciudad, punto de bienvenida que simboliza la soberanía nacional y la condición de Centinela del Norte.",
+    "history": "Erigido a mediados del siglo XX como parte del embellecimiento urbano de los accesos viales que conectan con la sierra centro y Quito.",
+    "address": "Av. Veintimilla y Panamericana Sur",
+    "coordinates": {
+      "lat": 0.798,
+      "lng": -77.721
+    },
+    "hours": "Acceso libre 24h",
+    "phone": "N/A",
+    "price": "Gratuito",
+    "interestLevel": "Medio",
+    "rating": 4.3,
+    "reviewsCount": 230,
+    "tags": [
+      "monumento",
+      "obelisco",
+      "civico",
+      "ingreso sur"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572953109213-3be62398eb95?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Punto de referencia clave para quienes ingresan en vehículo desde Ibarra o Quito.",
+    "nearbyIds": [
+      "monumento-al-pupo"
+    ]
+  },
+  {
+    "id": "catedral-de-tulcan",
+    "name": "Iglesia Catedral de Tulcán (San Miguel Arcángel)",
+    "shortName": "Catedral de Tulcán",
+    "category": "iglesias",
+    "categoryLabel": "Iglesias & Fe",
+    "description": "Majestuoso templo católico de estilo románico y modernista, sede de la Diócesis de Tulcán. Su interior alberga hermosos retablos cubiertos con pan de oro y vitrales que narran la historia bíblica.",
+    "history": "Diseñada por el sacerdote lazarista alemán Pedro Huberto Brüning. Su construcción inició en 1931 tras el terremoto de 1923 y se consagró en 1951. Una restauración integral concluyó en el año 2000.",
+    "address": "Av. Sucre y Calle Pichincha (Frente al Parque de la Independencia)",
+    "coordinates": {
+      "lat": 0.8115,
+      "lng": -77.7185
+    },
+    "hours": "Lunes a Domingo 06:30 a 18:30 (Misas diarias: 06:30, 17:30, 18:30 / Dom: 06:00, 12:00, 17:00, 18:00, 19:00)",
+    "phone": "(06) 298-0322",
+    "price": "Acceso libre (Respetar horarios litúrgicos)",
+    "interestLevel": "Muy Alto",
+    "rating": 4.8,
+    "reviewsCount": 1120,
+    "tags": [
+      "catedral",
+      "iglesia",
+      "pan de oro",
+      "arquitectura",
+      "centro historico",
+      "religion"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1548625361-195fe5786cb4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Toma fotografías sin flash. En las tardes, la luz solar resalta los tonos dorados del altar mayor.",
+    "nearbyIds": [
+      "parque-de-la-independencia",
+      "hotel-palacio-imperial",
+      "cafe-tulcan",
+      "teatro-lemarie"
+    ]
+  },
+  {
+    "id": "iglesia-san-francisco-tulcan",
+    "name": "Iglesia y Convento San Francisco (Padres Capuchinos)",
+    "shortName": "Iglesia San Francisco",
+    "category": "iglesias",
+    "categoryLabel": "Iglesias & Fe",
+    "description": "Histórico templo franciscano construido a finales del siglo XIX por la Orden de los Padres Capuchinos. Conserva imponentes campanas históricas y una fachada solemne de piedra tallada.",
+    "history": "Inició su edificación en 1875 bajo los planos del padre Luis de Beltrán. Ha resistido eventos sísmicos y fue readecuada respetando su volumetría original, siendo pilar de la historia carchense.",
+    "address": "Calle Bolívar, entre García Moreno y Roberto Sierra",
+    "coordinates": {
+      "lat": 0.8128,
+      "lng": -77.7168
+    },
+    "hours": "Lunes a Sábado 07:00 y 19:00; Domingos 07:00, 09:00, 18:00 y 19:00",
+    "phone": "(06) 298-1145",
+    "price": "Entrada libre",
+    "interestLevel": "Alto",
+    "rating": 4.7,
+    "reviewsCount": 680,
+    "tags": [
+      "iglesia",
+      "franciscanos",
+      "campanas",
+      "patrimonio",
+      "historia"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1543783207-ec64e4d95325?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": true,
+    "tips": "Ubicada a solo dos cuadras del Mercado Central, ideal para combinar con una parada gastronómica.",
+    "nearbyIds": [
+      "mercado-central-tulcan",
+      "catedral-de-tulcan"
+    ]
+  },
+  {
+    "id": "iglesia-la-dolorosa-tulcan",
+    "name": "Parroquia e Iglesia La Dolorosa",
+    "shortName": "Iglesia La Dolorosa",
+    "category": "iglesias",
+    "categoryLabel": "Iglesias & Fe",
+    "description": "Templo parroquial de vibrante devoción comunitaria, ubicado frente al Parque Isidro Ayora. Con arquitectura moderna y cálido ambiente espiritual.",
+    "history": "Erguida a mediados del siglo XX para acompañar la expansión urbana del norte de Tulcán tras la conformación del parque Ayora.",
+    "address": "Av. Bolívar, entre Calle Panamá y Calle Venezuela",
+    "coordinates": {
+      "lat": 0.8145,
+      "lng": -77.7198
+    },
+    "hours": "Lunes a Domingo 07:00 a 19:00",
+    "phone": "(06) 298-2510",
+    "price": "Entrada libre",
+    "interestLevel": "Medio",
+    "rating": 4.6,
+    "reviewsCount": 410,
+    "tags": [
+      "iglesia",
+      "parroquia",
+      "parque ayora",
+      "religion"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Agradable espacio para una pausa serena mientras paseas por el Parque Ayora.",
+    "nearbyIds": [
+      "parque-isidro-ayora",
+      "cementerio-municipal-jose-maria-azael-franco"
+    ]
+  },
+  {
+    "id": "santuario-gruta-de-la-paz",
+    "name": "Santuario Nacional Gruta de la Paz",
+    "shortName": "Gruta de la Paz (San Gabriel)",
+    "category": "iglesias",
+    "categoryLabel": "Iglesias & Fe",
+    "description": "Impresionante santuario mariano natural enclavado dentro de una gran caverna geológica con estalactitas y estalagmitas, bañado por el río Baboso y vertientes de aguas termales curativas.",
+    "history": "En 1911 el padre Jaramillo tuvo la iniciativa de consagrar la cueva a la Virgen de la Paz. Hoy es el centro de peregrinación más asombroso del norte del Ecuador.",
+    "address": "A 26 km al sureste de Tulcán / Parroquia La Paz (Cantón Montúfar)",
+    "coordinates": {
+      "lat": 0.505,
+      "lng": -77.778
+    },
+    "hours": "Todos los días de 07:00 a 17:00",
+    "phone": "(06) 229-0120",
+    "price": "$1.00 mantenimiento santuario y teleférico opcional",
+    "interestLevel": "Muy Alto",
+    "rating": 4.9,
+    "reviewsCount": 2150,
+    "tags": [
+      "gruta",
+      "cueva",
+      "virgen de la paz",
+      "termales",
+      "peregrinacion",
+      "milagros"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Lleva ropa abrigada y calzado antideslizante para caminar dentro de la caverna iluminada.",
+    "nearbyIds": [
+      "cementerio-municipal-jose-maria-azael-franco"
+    ]
+  },
+  {
+    "id": "reserva-ecologica-el-angel",
+    "name": "Reserva Ecológica El Ángel - Bosque de Frailejones",
+    "shortName": "Reserva Ecológica El Ángel",
+    "category": "naturaleza",
+    "categoryLabel": "Naturaleza & Páramo",
+    "description": "Mágico ecosistema de páramo andino famoso por su inmenso bosque de Frailejones (Espeletia pycnophylla) que alcanzan hasta 6 metros de altura. Hogar de cóndores andinos, venados de páramo y lagunas cristalinas como El Voladero.",
+    "history": "Creada en 1992 para proteger más de 15.000 hectáreas de 'páramo de esponja', fundamental para el régimen hídrico de toda la provincia del Carchi.",
+    "address": "A 35 km al suroeste de Tulcán (Acceso por El Ángel o Tufiño)",
+    "coordinates": {
+      "lat": 0.7553,
+      "lng": -77.9053
+    },
+    "hours": "Lunes a Domingo 06:00 a 17:00 (Mejor horario: 09:00 - 15:00)",
+    "phone": "(06) 297-7033",
+    "price": "Acceso gratuito con registro en garita del Ministerio de Ambiente",
+    "interestLevel": "Muy Alto",
+    "rating": 4.9,
+    "reviewsCount": 1980,
+    "tags": [
+      "paramo",
+      "frailejones",
+      "lagunas",
+      "senderismo",
+      "fauna andina",
+      "condor",
+      "aventura"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Temperatura entre 2°C y 12°C. Lleva chaqueta impermeable, botas de montaña, guantes y gorro térmico.",
+    "nearbyIds": [
+      "complejo-termal-aguas-hediondas",
+      "volcan-chiles"
+    ]
+  },
+  {
+    "id": "complejo-termal-aguas-hediondas",
+    "name": "Complejo Ecoturístico y Termas de Aguas Hediondas (Tufiño)",
+    "shortName": "Aguas Hediondas (Tufiño)",
+    "category": "naturaleza",
+    "categoryLabel": "Naturaleza & Páramo",
+    "description": "Piscinas termales de origen volcánico con alto contenido de azufre y minerales, a temperaturas de 35°C a 50°C. Famosas por sus reconocidas propiedades terapéuticas y medicinales para dolencias articulares y cutáneas.",
+    "history": "Emanaciones naturales originadas en las faldas del Volcán Chiles. Recientemente modernizadas con infraestructura turística de calidad por el GAD Parroquial de Tufiño.",
+    "address": "Parroquia Tufiño, a 23 km al occidente de Tulcán",
+    "coordinates": {
+      "lat": 0.7983,
+      "lng": -77.8658
+    },
+    "hours": "Lunes a Domingo 08:00 a 20:00 (Horario nocturno hasta las 21:00 fines de semana)",
+    "phone": "099 874 5210",
+    "price": "$2.50 Adultos / $1.50 Niños y tercera edad",
+    "interestLevel": "Muy Alto",
+    "rating": 4.7,
+    "reviewsCount": 1340,
+    "tags": [
+      "aguas termales",
+      "volcan chiles",
+      "salud natural",
+      "spa",
+      "tufino",
+      "relax"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Lleva toalla, traje de baño y sandalias. La combinación del frío del páramo con el agua caliente es una experiencia inigualable.",
+    "nearbyIds": [
+      "volcan-chiles",
+      "reserva-ecologica-el-angel"
+    ]
+  },
+  {
+    "id": "volcan-chiles",
+    "name": "Volcán Chiles y Lagunas Verdes",
+    "shortName": "Volcán Chiles (4.768 msnm)",
+    "category": "naturaleza",
+    "categoryLabel": "Naturaleza & Páramo",
+    "description": "Estratovolcán activo situado en la línea fronteriza entre Ecuador y Colombia. En sus faldas se encuentran las Lagunas Verdes, de impresionante tono esmeralda por la presencia de azufre disuelto.",
+    "history": "Coloso andino venerado ancestralmente por la cultura Pasto. Es el punto más alto del Carchi y un desafío predilecto para los amantes del andinismo.",
+    "address": "Límite fronterizo noroccidental (Acceso vía Tufiño - Maldonado)",
+    "coordinates": {
+      "lat": 0.8167,
+      "lng": -77.9333
+    },
+    "hours": "Abierto todo el año (Ascensos recomendados entre 05:00 y 13:00 con guías calificados)",
+    "phone": "098 765 4321",
+    "price": "Gratuito (Se recomienda contratar guía de montaña local)",
+    "interestLevel": "Muy Alto",
+    "rating": 4.8,
+    "reviewsCount": 780,
+    "tags": [
+      "volcan",
+      "andinismo",
+      "alta montana",
+      "lagunas verdes",
+      "senderismo",
+      "aventura"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Requiere aclimatación previa y equipo de montaña (cortavientos, agua, calzado de trekking). Consultar alertas meteorológicas.",
+    "nearbyIds": [
+      "complejo-termal-aguas-hediondas",
+      "reserva-ecologica-el-angel"
+    ]
+  },
+  {
+    "id": "teatro-lemarie",
+    "name": "Teatro Lemarie (Patrimonio Arquitectónico)",
+    "shortName": "Teatro Lemarie",
+    "category": "cultura",
+    "categoryLabel": "Cultura & Museos",
+    "description": "Emblemático teatro de estilo ecléctico inaugurado en 1936, construido por el empresario Pablo Lemarie. Declarado Patrimonio Cultural del Estado, es el corazón de las artes escénicas, música y cine clásico de Tulcán.",
+    "history": "Inaugurado el 28 de mayo de 1936, fue el epicentro del entretenimiento donde actuaron compañías internacionales. Tras una minuciosa restauración municipal en 2014, recuperó su esplendor original.",
+    "address": "Calle 10 de Agosto y Calle Bolívar (Centro Histórico)",
+    "coordinates": {
+      "lat": 0.8118,
+      "lng": -77.7175
+    },
+    "hours": "Lunes a Viernes 08:30 - 17:00 (Eventos según cartelera cultural)",
+    "phone": "(06) 298-0550",
+    "price": "Entrada libre o según evento cultural",
+    "interestLevel": "Muy Alto",
+    "rating": 4.8,
+    "reviewsCount": 520,
+    "tags": [
+      "teatro",
+      "patrimonio",
+      "arte",
+      "cine",
+      "arquitectura",
+      "centro historico"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Consulta en boletería o redes del GAD Tulcán las presentaciones de danza, música sinfónica y cine independiente.",
+    "nearbyIds": [
+      "parque-de-la-independencia",
+      "catedral-de-tulcan",
+      "mercado-central-tulcan"
+    ]
+  },
+  {
+    "id": "casa-de-la-cultura-carchi",
+    "name": "Casa de la Cultura Ecuatoriana 'Benjamín Carrión' Núcleo del Carchi",
+    "shortName": "Casa de la Cultura & Museo Pasto",
+    "category": "cultura",
+    "categoryLabel": "Cultura & Museos",
+    "description": "Sede principal del arte y la memoria histórica del Carchi. Alberga una invaluable colección arqueológica de las fases Capulí, Piartal y Pasto, con cerámicas antropomorfas y orfebrería precolombina.",
+    "history": "Fundada el 23 de agosto de 1953 con el impulso directo del ilustre intelectual Benjamín Carrión. Su museo arqueológico moderno fue inaugurado en 2006.",
+    "address": "Calle Panamá y Calle Cotopaxi (esquina)",
+    "coordinates": {
+      "lat": 0.8142,
+      "lng": -77.7215
+    },
+    "hours": "Lunes a Viernes de 08:30 a 13:00 y de 14:30 a 17:30",
+    "phone": "(06) 298-0430",
+    "website": "https://casadelacultura.gob.ec",
+    "price": "Ingreso gratuito",
+    "interestLevel": "Alto",
+    "rating": 4.7,
+    "reviewsCount": 420,
+    "tags": [
+      "museo",
+      "arqueologia",
+      "cultura pasto",
+      "capuli",
+      "arte",
+      "historia"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": true,
+    "tips": "Ideal para comprender los orígenes milenarios del pueblo carchense antes de visitar los monumentos.",
+    "nearbyIds": [
+      "cementerio-municipal-jose-maria-azael-franco",
+      "parque-isidro-ayora"
+    ]
+  },
+  {
+    "id": "museo-arqueologico-german-bastidas",
+    "name": "Museo Arqueológico Germán Bastidas Vaca (ITB)",
+    "shortName": "Museo Germán Bastidas Vaca",
+    "category": "cultura",
+    "categoryLabel": "Cultura & Museos",
+    "description": "Museo arqueológico institucional del prestigioso Instituto Tecnológico Bolívar, con cientos de vestigios funerarios, vasijas silbadoras, ocarinas y herramientas líticas de los pueblos pastos.",
+    "history": "Colección conformada gracias a la labor de docentes e investigadores que protegieron piezas ancestrales encontradas en la cuenca del río Carchi.",
+    "address": "Av. Sucre y Calle Argentina (Unidad Educativa Bolívar)",
+    "coordinates": {
+      "lat": 0.813,
+      "lng": -77.72
+    },
+    "hours": "Lunes a Viernes de 08:00 a 15:30",
+    "phone": "(06) 298-0285",
+    "price": "$0.50 contribución simbólica de mantenimiento",
+    "interestLevel": "Medio",
+    "rating": 4.5,
+    "reviewsCount": 210,
+    "tags": [
+      "museo",
+      "bolivar",
+      "arqueologia",
+      "vestigios pasto"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Coordina tu visita previamente con la secretaría del plantel si vas en grupos grandes.",
+    "nearbyIds": [
+      "catedral-de-tulcan",
+      "cafe-tulcan"
+    ]
+  },
+  {
+    "id": "parque-de-la-independencia",
+    "name": "Parque de la Independencia (Parque Central de Tulcán)",
+    "shortName": "Parque de la Independencia",
+    "category": "turismo",
+    "categoryLabel": "Turismo & Patrimonio",
+    "description": "La plaza mayor de Tulcán, rodeada por la Catedral, la Gobernación y edificios patrimoniales. En su centro se alza la estatua de 'La Libertad', donada por el Batallón Constitución en 1919.",
+    "history": "Histórico corazón de la urbe desde la época colonial. Fue plaza de armas, escenario de cabildos abiertos y punto neurálgico de la vida cívica carchense.",
+    "address": "Calle 10 de Agosto, entre Sucre y Olmedo",
+    "coordinates": {
+      "lat": 0.8112,
+      "lng": -77.718
+    },
+    "hours": "Abierto 24 horas",
+    "phone": "N/A",
+    "price": "Acceso libre",
+    "interestLevel": "Muy Alto",
+    "rating": 4.7,
+    "reviewsCount": 1850,
+    "tags": [
+      "parque",
+      "plaza mayor",
+      "estatua libertad",
+      "catedral",
+      "centro historico"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Excelente punto de partida para recorrer el centro a pie y degustar bizcochos en las cafeterías tradicionales aledañas.",
+    "nearbyIds": [
+      "catedral-de-tulcan",
+      "cafe-tulcan",
+      "teatro-lemarie",
+      "hotel-palacio-imperial"
+    ]
+  },
+  {
+    "id": "parque-isidro-ayora",
+    "name": "Parque Isidro Ayora",
+    "shortName": "Parque Isidro Ayora",
+    "category": "turismo",
+    "categoryLabel": "Turismo & Patrimonio",
+    "description": "Hermoso y concurrido parque urbano con fuentes ornamentales de agua, áreas verdes, juegos infantiles y la estatua del héroe Abdón Calderón. Es el nexo comercial y de transporte de la zona norte.",
+    "history": "Construido tras el terremoto de 1923 con el decidido apoyo del presidente de la República, Dr. Isidro Ayora, en cuyo homenaje lleva su nombre.",
+    "address": "Calle Panamá, entre Bolívar y Manabí",
+    "coordinates": {
+      "lat": 0.8148,
+      "lng": -77.7192
+    },
+    "hours": "Abierto 24 horas",
+    "phone": "N/A",
+    "price": "Acceso libre",
+    "interestLevel": "Alto",
+    "rating": 4.6,
+    "reviewsCount": 1210,
+    "tags": [
+      "parque",
+      "fuentes",
+      "isidro ayora",
+      "comercio",
+      "transporte"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": true,
+    "tips": "A pocos metros encuentras cooperativas de transporte y taxis autorizados hacia la frontera con Colombia.",
+    "nearbyIds": [
+      "cementerio-municipal-jose-maria-azael-franco",
+      "iglesia-la-dolorosa",
+      "casa-de-la-cultura-carchi"
+    ]
+  },
+  {
+    "id": "hotel-palacio-imperial",
+    "name": "Hotel Palacio Imperial",
+    "shortName": "Hotel Palacio Imperial",
+    "category": "hoteles",
+    "categoryLabel": "Hoteles & Hospedaje",
+    "description": "Hotel tradicional de primera categoría ubicado frente a la Catedral de Tulcán. Habitaciones confortables con calefacción, agua caliente 24h, Wi-Fi de alta velocidad, restaurante y vista privilegiada a la plaza.",
+    "history": "Establecimiento con décadas de trayectoria hospedando a delegaciones diplomáticas, comerciantes y turistas que visitan la frontera andina.",
+    "address": "Calle Sucre y Pichincha (esquina, diagonal a la Catedral)",
+    "coordinates": {
+      "lat": 0.8116,
+      "lng": -77.7186
+    },
+    "hours": "Recepción 24 horas",
+    "phone": "(06) 298-0638 / +593 98 622 2174",
+    "website": "https://hotelpalacioimperial.com",
+    "price": "$25 - $45 USD por noche (Incluye desayuno)",
+    "interestLevel": "Muy Alto",
+    "rating": 4.6,
+    "reviewsCount": 480,
+    "tags": [
+      "hotel",
+      "hospedaje",
+      "centro",
+      "wifi",
+      "desayuno",
+      "confort"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": false,
+    "tips": "Pide una habitación con balcón hacia la Plaza de la Independencia para disfrutar del repique de campanas.",
+    "nearbyIds": [
+      "catedral-de-tulcan",
+      "parque-de-la-independencia",
+      "cafe-tulcan"
+    ]
+  },
+  {
+    "id": "hotel-sara-espindola",
+    "name": "Hotel Sara Espíndola",
+    "shortName": "Hotel Sara Espíndola",
+    "category": "hoteles",
+    "categoryLabel": "Hoteles & Hospedaje",
+    "description": "Alojamiento céntrico y acogedor, reconocido por su excelente atención personalizada, limpieza impecable, parqueadero privado y cercanía a las principales zonas comerciales.",
+    "history": "Hotel de referencia en el centro de Tulcán, preferido por familias y viajeros de negocios binacionales.",
+    "address": "Av. Sucre y Ayacucho (Centro de Tulcán)",
+    "coordinates": {
+      "lat": 0.8119,
+      "lng": -77.7188
+    },
+    "hours": "Recepción 24 horas",
+    "phone": "(06) 298-2464",
+    "price": "$20 - $35 USD por noche",
+    "interestLevel": "Alto",
+    "rating": 4.5,
+    "reviewsCount": 360,
+    "tags": [
+      "hotel",
+      "economico",
+      "centro",
+      "familiar",
+      "parqueadero"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Cuenta con garaje seguro si viajas con vehículo propio.",
+    "nearbyIds": [
+      "catedral-de-tulcan",
+      "parque-de-la-independencia"
+    ]
+  },
+  {
+    "id": "hotel-torres-de-oro",
+    "name": "Hotel Torres de Oro",
+    "shortName": "Hotel Torres de Oro",
+    "category": "hoteles",
+    "categoryLabel": "Hoteles & Hospedaje",
+    "description": "Moderna opción de hospedaje con amplias habitaciones simples, dobles y suites ejecutivas. Servicios de TV por cable, Wi-Fi fibra óptica, room service y cafetería.",
+    "history": "Diseñado para brindar comodidad tanto a turistas como a ejecutivos de comercio exterior.",
+    "address": "Calle Sucre y Rocafuerte esquina",
+    "coordinates": {
+      "lat": 0.8125,
+      "lng": -77.7182
+    },
+    "hours": "Recepción 24 horas",
+    "phone": "(06) 298-4660 / 099-5550-892",
+    "website": "https://hoteltorresdeoro.com.ec",
+    "price": "$22 - $40 USD por noche",
+    "interestLevel": "Alto",
+    "rating": 4.5,
+    "reviewsCount": 290,
+    "tags": [
+      "hotel",
+      "suites",
+      "ejecutivo",
+      "tv cable",
+      "wifi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Excelente ubicación para desplazarse a pie hacia cualquier punto del centro financiero.",
+    "nearbyIds": [
+      "mercado-central-tulcan",
+      "iglesia-san-francisco-tulcan"
+    ]
+  },
+  {
+    "id": "hotel-los-alpes",
+    "name": "Hotel Los Alpes",
+    "shortName": "Hotel Los Alpes",
+    "category": "hoteles",
+    "categoryLabel": "Hoteles & Hospedaje",
+    "description": "Hotel accesible con habitaciones cómodas, ambiente tranquilo y personal siempre atento para orientar sobre traslados y atractivos turísticos.",
+    "history": "Un clásico del sector norte de Tulcán con años de experiencia en hospitalidad carchense.",
+    "address": "Av. Juan Rafael Arellano y Veintimilla",
+    "coordinates": {
+      "lat": 0.8135,
+      "lng": -77.717
+    },
+    "hours": "Recepción 24 horas",
+    "phone": "+593 6 298-2235",
+    "price": "$18 - $30 USD por noche",
+    "interestLevel": "Medio",
+    "rating": 4.3,
+    "reviewsCount": 190,
+    "tags": [
+      "hotel",
+      "economico",
+      "tranquilo",
+      "arellano"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Opción muy económica y confiable cerca de las arterias principales de transporte.",
+    "nearbyIds": [
+      "terminal-terrestre-tulcan",
+      "centro-de-salud-tulcan-1"
+    ]
+  },
+  {
+    "id": "mercado-central-tulcan",
+    "name": "Mercado Central de Tulcán (Plaza Gastronómica del Buen Vivir)",
+    "shortName": "Hornado Pastuso del Mercado Central",
+    "category": "restaurantes",
+    "categoryLabel": "Gastronomía & Cafés",
+    "description": "El templo del auténtico Hornado Pastuso carchense, horneado lentamente a leña y servido con tortillas de papa crocantes, mote suave, aguacate y cuero reventado. Declarado Mercado Gastronómico Nacional.",
+    "history": "Tradición culinaria de más de 80 años transmitida por generaciones de caseras expertas en el adobo secreto de chicha de jora, ajo y comino.",
+    "address": "Calle Boyacá, entre Bolívar y Sucre (Centro)",
+    "coordinates": {
+      "lat": 0.812,
+      "lng": -77.7172
+    },
+    "hours": "Lunes a Domingo 06:30 a 17:00",
+    "phone": "(06) 298-0150",
+    "price": "$3.50 a $5.00 el plato completo de hornado con jugo natural",
+    "interestLevel": "Muy Alto",
+    "rating": 4.9,
+    "reviewsCount": 3120,
+    "tags": [
+      "hornado pastuso",
+      "gastronomia tipica",
+      "mercado",
+      "tortillas de papa",
+      "cuero crocante",
+      "imperdible"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Pide una 'probadita' de cuero crocante antes de elegir puesto. Acompáñalo con jugo de naranjilla o mora recién exprimido.",
+    "nearbyIds": [
+      "iglesia-san-francisco-tulcan",
+      "catedral-de-tulcan",
+      "cafe-tulcan"
+    ]
+  },
+  {
+    "id": "cafe-tulcan",
+    "name": "Café Tulcán (Tradición desde 1945)",
+    "shortName": "Café Tulcán",
+    "category": "restaurantes",
+    "categoryLabel": "Gastronomía & Cafés",
+    "description": "Icónica cafetería patrimonial en funcionamiento ininterrumpido desde 1945. Famosa por sus bizcochos de sal y de dulce con queso amasado de Carchi, sándwiches de pernil y humeante café de altura.",
+    "history": "Fundada hace más de siete décadas, ha sido el punto de tertulia de escritores, políticos, poetas y familias de Tulcán.",
+    "address": "Calle Sucre 52-029 y Ayacucho (Frente al Parque Central)",
+    "coordinates": {
+      "lat": 0.8114,
+      "lng": -77.7183
+    },
+    "hours": "Lunes a Viernes de 07:30 a 19:00; Sábados de 07:30 a 14:00",
+    "phone": "(06) 298-0388",
+    "price": "$2.00 - $6.00 (Café, bizcochos y sándwiches)",
+    "interestLevel": "Muy Alto",
+    "rating": 4.8,
+    "reviewsCount": 1650,
+    "tags": [
+      "cafe",
+      "bizcochos",
+      "sandwiches de pernil",
+      "queso amasado",
+      "tertulia",
+      "tradicion"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": true,
+    "tips": "Pide el combo clásico: café negro filtrado con bizcocho caliente y un trozo de queso amasado carchense.",
+    "nearbyIds": [
+      "parque-de-la-independencia",
+      "catedral-de-tulcan",
+      "hotel-palacio-imperial"
+    ]
+  },
+  {
+    "id": "chanul-restobar",
+    "name": "Chanul Restobar & Cortes de Carne",
+    "shortName": "Chanul Restobar",
+    "category": "restaurantes",
+    "categoryLabel": "Gastronomía & Cafés",
+    "description": "Restaurante moderno especializado en cortes finos a la parrilla (T-Bone, picaña, bife de chorizo), hamburguesas artesanales, cócteles de autor y cervezas artesanales.",
+    "history": "Propuesta contemporánea que fusiona la calidad de las carnes andinas con técnicas parrilleras de vanguardia.",
+    "address": "Av. Manabí y Calle Paraguay",
+    "coordinates": {
+      "lat": 0.8155,
+      "lng": -77.721
+    },
+    "hours": "Lunes a Domingo 12:00 a 23:00",
+    "phone": "099 234 5678",
+    "price": "$8.00 - $18.00 por plato",
+    "interestLevel": "Alto",
+    "rating": 4.7,
+    "reviewsCount": 540,
+    "tags": [
+      "parrillada",
+      "carnes",
+      "cerveza artesanal",
+      "cocteles",
+      "moderno",
+      "cena"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Excelente para almuerzos ejecutivos o una cena con ambiente acogedor y música suave.",
+    "nearbyIds": [
+      "parque-isidro-ayora",
+      "casa-de-la-cultura-carchi"
+    ]
+  },
+  {
+    "id": "cuyes-y-gallinas-olmedo",
+    "name": "Restaurante Tradicional Cuyes y Gallinas de Olmedo",
+    "shortName": "Cuyes Tradicionales de Tulcán",
+    "category": "restaurantes",
+    "categoryLabel": "Gastronomía & Cafés",
+    "description": "Asadero tradicional donde se prepara el auténtico cuy asado al carbón y caldo de gallina criolla con papas chauchas y ají de pepa de zambo.",
+    "history": "Costumbre gastronómica ancestral de la sierra norte, infaltable en celebraciones familiares y festividades patronales.",
+    "address": "Calle Olmedo y Calle Uruguay",
+    "coordinates": {
+      "lat": 0.8105,
+      "lng": -77.7195
+    },
+    "hours": "Miércoles a Domingo 11:00 a 20:00",
+    "phone": "098 432 1098",
+    "price": "$12.00 - $22.00 (Cuy entero o cuartos con guarniciones)",
+    "interestLevel": "Alto",
+    "rating": 4.6,
+    "reviewsCount": 720,
+    "tags": [
+      "cuy asado",
+      "gallina criolla",
+      "papas chauchas",
+      "tradicion andina"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Si deseas un cuy recién asado para grupos, puedes llamar con 45 minutos de anticipación para reservar.",
+    "nearbyIds": [
+      "parque-de-la-independencia",
+      "monumento-al-pupo"
+    ]
+  },
+  {
+    "id": "hospital-luis-gabriel-davila",
+    "name": "Hospital General Provincial Luis Gabriel Dávila (Emergencias 24h)",
+    "shortName": "Hospital General Luis G. Dávila",
+    "category": "salud",
+    "categoryLabel": "Salud & Emergencias",
+    "description": "Principal casa de salud pública de la provincia del Carchi. Cuenta con sala de emergencias 24 horas, terapia intensiva, centro quirúrgico, laboratorio clínico, banco de sangre y helipuerto.",
+    "history": "Hospital de segundo nivel de referencia regional, inaugurado en modernas instalaciones para atender a la población carchense y emergencias binacionales.",
+    "address": "Av. San Francisco y Calle Gustavo Bécquer (Norte de Tulcán)",
+    "coordinates": {
+      "lat": 0.825,
+      "lng": -77.715
+    },
+    "hours": "Emergencias: 24 Horas / Consulta Externa: Lun-Vie 07:00 a 16:00",
+    "phone": "(06) 299-9400 / ECU 911",
+    "website": "https://www.salud.gob.ec",
+    "price": "Atención de emergencia pública y gratuita",
+    "interestLevel": "Muy Alto",
+    "rating": 4.4,
+    "reviewsCount": 560,
+    "tags": [
+      "hospital",
+      "emergencias 24h",
+      "salud publica",
+      "medicos",
+      "ambulancia"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": false,
+    "tips": "En caso de emergencia médica grave, llama de inmediato al 911 o acude al ingreso de emergencias en la Av. San Francisco.",
+    "nearbyIds": [
+      "terminal-terrestre-tulcan"
+    ]
+  },
+  {
+    "id": "centro-de-salud-tulcan-1",
+    "name": "Centro de Salud Tulcán No. 1 (Tipo A/B)",
+    "shortName": "Centro de Salud No. 1",
+    "category": "salud",
+    "categoryLabel": "Salud & Emergencias",
+    "description": "Centro de atención primaria del Ministerio de Salud Pública. Atención médica general, odontología, vacunación y primeros auxilios.",
+    "history": "Una de las primeras unidades de salud comunitaria del centro histórico de Tulcán.",
+    "address": "Calle Junín y Av. Rafael Arellano",
+    "coordinates": {
+      "lat": 0.8138,
+      "lng": -77.7165
+    },
+    "hours": "Lunes a Viernes de 08:00 a 17:00",
+    "phone": "(06) 298-0180",
+    "price": "Atención gratuita del MSP",
+    "interestLevel": "Medio",
+    "rating": 4.2,
+    "reviewsCount": 180,
+    "tags": [
+      "centro de salud",
+      "medicina general",
+      "primeros auxilios",
+      "msp"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Útil para curaciones menores, control de presión arterial o malestar de altura.",
+    "nearbyIds": [
+      "mercado-central-tulcan",
+      "hotel-los-alpes"
+    ]
+  },
+  {
+    "id": "farmacia-cruz-azul-ayora",
+    "name": "Farmacia Cruz Azul (Sector Parque Ayora)",
+    "shortName": "Farmacia Cruz Azul Ayora",
+    "category": "salud",
+    "categoryLabel": "Salud & Emergencias",
+    "description": "Farmacia con amplio stock de medicamentos, analgésicos, protectores gástricos, medicamentos para el soroche (mal de altura) y artículos de cuidado personal.",
+    "history": "Cadena de farmacias líder en el país con turnos de atención extendidos.",
+    "address": "Av. Bolívar y Calle Panamá (Frente al Parque Ayora)",
+    "coordinates": {
+      "lat": 0.8146,
+      "lng": -77.7195
+    },
+    "hours": "Lunes a Domingo de 07:00 a 22:30 (Turnos 24h rotativos)",
+    "phone": "(06) 298-3300",
+    "price": "Venta de medicamentos con precios regulados",
+    "interestLevel": "Medio",
+    "rating": 4.5,
+    "reviewsCount": 220,
+    "tags": [
+      "farmacia",
+      "medicinas",
+      "soroche",
+      "parque ayora",
+      "emergencia leve"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Si sientes dolor de cabeza por la altura (2.980m), aquí puedes conseguir hidratantes y pastillas para el mal de montaña.",
+    "nearbyIds": [
+      "parque-isidro-ayora",
+      "iglesia-la-dolorosa"
+    ]
+  },
+  {
+    "id": "farmacia-fybeca-centro",
+    "name": "Farmacia Fybeca Centro Tulcán",
+    "shortName": "Farmacia Fybeca Centro",
+    "category": "salud",
+    "categoryLabel": "Salud & Emergencias",
+    "description": "Farmacia de autoservicio con medicamentos, dermocosmética, alimentos saludables, accesorios de viaje y cobro con tarjetas de crédito.",
+    "history": "Punto de abastecimiento farmacéutico premium en el corazón comercial de la ciudad.",
+    "address": "Calle Sucre y Calle 10 de Agosto",
+    "coordinates": {
+      "lat": 0.8113,
+      "lng": -77.7179
+    },
+    "hours": "Lunes a Domingo de 07:30 a 21:00",
+    "phone": "1700-392322",
+    "price": "Venta directa de farmacia",
+    "interestLevel": "Medio",
+    "rating": 4.6,
+    "reviewsCount": 310,
+    "tags": [
+      "farmacia",
+      "fybeca",
+      "centro",
+      "tarjetas",
+      "medicinas"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586015555751-63c25b7a71c3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Ubicada en la esquina del Parque Central, cuenta con atención rápida.",
+    "nearbyIds": [
+      "parque-de-la-independencia",
+      "cafe-tulcan",
+      "catedral-de-tulcan"
+    ]
+  },
+  {
+    "id": "terminal-terrestre-tulcan",
+    "name": "Terminal Terrestre de Tulcán",
+    "shortName": "Terminal Terrestre de Tulcán",
+    "category": "servicios",
+    "categoryLabel": "Transporte & Servicios",
+    "description": "Estación central de transporte interprovincial e intercantonal. Salidas continuas de buses hacia Ibarra, Otavalo, Quito, Guayaquil y todas las parroquias del Carchi (Tufiño, San Gabriel, El Ángel).",
+    "history": "Infraestructura clave de conectividad que articula la frontera norte con el resto de la República del Ecuador.",
+    "address": "Av. Rafael Arellano y Calle Carabobo",
+    "coordinates": {
+      "lat": 0.8141,
+      "lng": -77.7214
+    },
+    "hours": "Abierto 24 Horas",
+    "phone": "(06) 298-0400",
+    "price": "Boletos según destino (Quito ~$7-$10 / Ibarra ~$3.50)",
+    "interestLevel": "Muy Alto",
+    "rating": 4.4,
+    "reviewsCount": 2200,
+    "tags": [
+      "terminal",
+      "buses",
+      "transporte",
+      "viajes",
+      "quito",
+      "ibarra",
+      "frontera"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true,
+    "recommendedForPhoto": false,
+    "tips": "Dentro del terminal hay locales de comida, custodia de equipaje y parada de taxis formales.",
+    "nearbyIds": [
+      "cementerio-municipal-jose-maria-azael-franco",
+      "parque-isidro-ayora"
+    ]
+  },
+  {
+    "id": "parada-transporte-rumichaca-ipiales",
+    "name": "Parada de Taxis & Furgonetas Binacionales Rumichaca - Ipiales",
+    "shortName": "Transporte a Rumichaca / Ipiales",
+    "category": "servicios",
+    "categoryLabel": "Transporte & Servicios",
+    "description": "Punto neurálgico de camionetas, vans y taxis autorizados que realizan la ruta directa y rápida entre Tulcán y el Puente Internacional de Rumichaca (7 km) para conectar con Ipiales y el Santuario de Las Lajas.",
+    "history": "Servicio tradicional de cooperación binacional que moviliza a miles de viajeros diarios entre Ecuador y Colombia.",
+    "address": "Sector Parque Ayora (Calle Panamá y Av. Bolívar)",
+    "coordinates": {
+      "lat": 0.815,
+      "lng": -77.719
+    },
+    "hours": "Lunes a Domingo de 06:00 a 19:30",
+    "phone": "099 123 4567",
+    "price": "$0.75 - $1.00 colectivo / $3.50 taxi expreso hasta el puente",
+    "interestLevel": "Alto",
+    "rating": 4.6,
+    "reviewsCount": 940,
+    "tags": [
+      "transporte",
+      "taxis",
+      "rumichaca",
+      "ipiales",
+      "frontera",
+      "las lajas"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "El trayecto dura solo 15 minutos en taxi hasta el puente fronterizo.",
+    "nearbyIds": [
+      "parque-isidro-ayora",
+      "iglesia-la-dolorosa"
+    ]
+  },
+  {
+    "id": "policia-turistica-carchi",
+    "name": "Policía Nacional y Unidad de Policía Turística del Carchi",
+    "shortName": "Policía Turística & ECU 911",
+    "category": "servicios",
+    "categoryLabel": "Transporte & Servicios",
+    "description": "Servicio de seguridad ciudadana, auxilio inmediato y orientación especializada para turistas nacionales y extranjeros en la ciudad de Tulcán y pasos fronterizos.",
+    "history": "Unidad destinada a garantizar la seguridad, paz y libre movilidad de viajeros.",
+    "address": "Av. Coral y Calle Guayaquil / Emergencias ECU 911",
+    "coordinates": {
+      "lat": 0.816,
+      "lng": -77.717
+    },
+    "hours": "Atención 24 Horas",
+    "phone": "ECU 911 / (06) 298-0101",
+    "price": "Servicio público gratuito",
+    "interestLevel": "Alto",
+    "rating": 4.7,
+    "reviewsCount": 310,
+    "tags": [
+      "policia",
+      "seguridad",
+      "emergencias",
+      "ecu 911",
+      "turismo seguro"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false,
+    "recommendedForPhoto": false,
+    "tips": "Ante cualquier percance de seguridad o pérdida de documentos, comunícate de inmediato al 911.",
+    "nearbyIds": [
+      "terminal-terrestre-tulcan"
+    ]
+  }
+]

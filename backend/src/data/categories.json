@@ -1,0 +1,100 @@
+[
+  {
+    "id": "todos",
+    "name": "Todos los Lugares",
+    "icon": "Compass",
+    "color": "#10b981",
+    "bgColor": "bg-emerald-500/20",
+    "borderColor": "border-emerald-500/40",
+    "textColor": "text-emerald-400",
+    "description": "Explora todo lo que Tulcán tiene para ofrecer"
+  },
+  {
+    "id": "turismo",
+    "name": "Turismo & Monumentos",
+    "icon": "Landmark",
+    "color": "#10b981",
+    "bgColor": "bg-emerald-500/20",
+    "borderColor": "border-emerald-500/40",
+    "textColor": "text-emerald-400",
+    "pinColor": "#10b981",
+    "description": "Sitios icónicos, monumentos y atractivos principales"
+  },
+  {
+    "id": "iglesias",
+    "name": "Iglesias & Fe",
+    "icon": "Church",
+    "color": "#a855f7",
+    "bgColor": "bg-purple-500/20",
+    "borderColor": "border-purple-500/40",
+    "textColor": "text-purple-400",
+    "pinColor": "#a855f7",
+    "description": "Patrimonio religioso, catedrales y santuarios históricos"
+  },
+  {
+    "id": "cultura",
+    "name": "Cultura & Museos",
+    "icon": "Palette",
+    "color": "#f59e0b",
+    "bgColor": "bg-amber-500/20",
+    "borderColor": "border-amber-500/40",
+    "textColor": "text-amber-400",
+    "pinColor": "#f59e0b",
+    "description": "Museos arqueológicos de la cultura Pasto y teatros"
+  },
+  {
+    "id": "naturaleza",
+    "name": "Naturaleza & Páramo",
+    "icon": "Trees",
+    "color": "#06b6d4",
+    "bgColor": "bg-cyan-500/20",
+    "borderColor": "border-cyan-500/40",
+    "textColor": "text-cyan-400",
+    "pinColor": "#06b6d4",
+    "description": "Reservas de frailejones, termales volcánicas y lagunas"
+  },
+  {
+    "id": "hoteles",
+    "name": "Hoteles & Hospedaje",
+    "icon": "Bed",
+    "color": "#3b82f6",
+    "bgColor": "bg-blue-500/20",
+    "borderColor": "border-blue-500/40",
+    "textColor": "text-blue-400",
+    "pinColor": "#3b82f6",
+    "description": "Alojamientos céntricos, confort y descanso en la frontera"
+  },
+  {
+    "id": "restaurantes",
+    "name": "Gastronomía & Cafés",
+    "icon": "Utensils",
+    "color": "#f97316",
+    "bgColor": "bg-orange-500/20",
+    "borderColor": "border-orange-500/40",
+    "textColor": "text-orange-400",
+    "pinColor": "#f97316",
+    "description": "Hornado pastuso, bizcochos tradicionales, café y carnes"
+  },
+  {
+    "id": "salud",
+    "name": "Salud & Emergencias",
+    "icon": "HeartPulse",
+    "color": "#ef4444",
+    "bgColor": "bg-red-500/20",
+    "borderColor": "border-red-500/40",
+    "textColor": "text-red-400",
+    "pinColor": "#ef4444",
+    "description": "Hospitales provinciales 24h, centros de salud y farmacias"
+  },
+  {
+    "id": "servicios",
+    "name": "Transporte & Servicios",
+    "icon": "Bus",
+    "color": "#94a3b8",
+    "bgColor": "bg-slate-500/20",
+    "borderColor": "border-slate-500/40",
+    "textColor": "text-slate-300",
+    "pinColor": "#94a3b8",
+    "description": "Terminal terrestre, aduana Rumichaca y transporte binacional"
+  }
+]

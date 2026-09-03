@@ -1,0 +1,251 @@
+[
+  {
+    "id": "ruta-esencial-1-dia",
+    "name": "Ruta Esencial 1 Día en Tulcán",
+    "tagline": "Lo más representativo de la ciudad en un día inolvidable",
+    "category": "cultural",
+    "duration": "6 a 8 horas",
+    "difficulty": "Fácil / Caminata urbana y taxi",
+    "totalDistanceKm": 6.8,
+    "estimatedTimeMinutes": 420,
+    "description": "El recorrido imprescindible para descubrir el arte de ciprés del Cementerio de Tulcán, el patrimonio colonial y la mejor gastronomía pastusa.",
+    "color": "#10b981",
+    "places": [
+      {
+        "placeId": "cementerio-municipal-jose-maria-azael-franco",
+        "order": 1,
+        "activity": "Explorar las esculturas de ciprés y jardines topiarios",
+        "suggestedTime": "1.5 horas"
+      },
+      {
+        "placeId": "parque-isidro-ayora",
+        "order": 2,
+        "activity": "Paseo por las piletas y comercio norteño",
+        "suggestedTime": "30 min"
+      },
+      {
+        "placeId": "iglesia-san-francisco-tulcan",
+        "order": 3,
+        "activity": "Visitar el histórico templo capuchino de 1875",
+        "suggestedTime": "30 min"
+      },
+      {
+        "placeId": "mercado-central-tulcan",
+        "order": 4,
+        "activity": "Almuerzo: Degustación de hornado pastuso con tortillas de papa",
+        "suggestedTime": "1 hora"
+      },
+      {
+        "placeId": "catedral-de-tulcan",
+        "order": 5,
+        "activity": "Admira los altares en pan de oro y vitrales",
+        "suggestedTime": "45 min"
+      },
+      {
+        "placeId": "cafe-tulcan",
+        "order": 6,
+        "activity": "Café de la tarde con bizcochos tradicionales y queso amasado",
+        "suggestedTime": "45 min"
+      },
+      {
+        "placeId": "teatro-lemarie",
+        "order": 7,
+        "activity": "Fotografía arquitectónica del teatro restaurado de 1936",
+        "suggestedTime": "30 min"
+      },
+      {
+        "placeId": "monumento-al-pupo",
+        "order": 8,
+        "activity": "Atardecer en el monumento ícono de la identidad carchense",
+        "suggestedTime": "30 min"
+      }
+    ],
+    "highlights": [
+      "Cementerio de Topiaria",
+      "Hornado Pastuso",
+      "Catedral con Pan de Oro",
+      "Café Histórico"
+    ],
+    "recommendedTransport": "Caminata urbana + Taxi corto al Monumento al Pupo"
+  },
+  {
+    "id": "ruta-patrimonio-religioso",
+    "name": "Ruta de Fe & Patrimonio Sagrado",
+    "tagline": "Historia, arquitectura sacra y santuarios milagrosos",
+    "category": "religiosa",
+    "duration": "5 horas",
+    "difficulty": "Moderado",
+    "totalDistanceKm": 28.5,
+    "estimatedTimeMinutes": 300,
+    "description": "Un itinerario de devoción que conecta los templos históricos de Tulcán con el asombroso Santuario Gruta de la Paz.",
+    "color": "#a855f7",
+    "places": [
+      {
+        "placeId": "catedral-de-tulcan",
+        "order": 1,
+        "activity": "Misa matutina y contemplación de retablos dorados",
+        "suggestedTime": "1 hora"
+      },
+      {
+        "placeId": "iglesia-san-francisco-tulcan",
+        "order": 2,
+        "activity": "Historia capuchina y campanas centenarias",
+        "suggestedTime": "45 min"
+      },
+      {
+        "placeId": "iglesia-la-dolorosa-tulcan",
+        "order": 3,
+        "activity": "Oración y visita comunitaria frente al Parque Ayora",
+        "suggestedTime": "30 min"
+      },
+      {
+        "placeId": "santuario-gruta-de-la-paz",
+        "order": 4,
+        "activity": "Peregrinación a la caverna natural con aguas termales",
+        "suggestedTime": "2.5 horas"
+      }
+    ],
+    "highlights": [
+      "Catedral San Miguel",
+      "Convento Capuchino",
+      "Caverna Gruta de la Paz",
+      "Aguas Termales"
+    ],
+    "recommendedTransport": "Vehículo particular o tour intercantonal"
+  },
+  {
+    "id": "ruta-sabor-pastuso",
+    "name": "Ruta Gastronómica del Carchi",
+    "tagline": "Sabores ancestrales, hornado a leña y repostería tradicional",
+    "category": "gastronomica",
+    "duration": "4 horas",
+    "difficulty": "Fácil / A pie",
+    "totalDistanceKm": 2.5,
+    "estimatedTimeMinutes": 240,
+    "description": "Una travesía culinaria para los amantes del buen comer: desde el crujiente cuero del hornado hasta el café filtrado con bizcochos calientes.",
+    "color": "#f97316",
+    "places": [
+      {
+        "placeId": "mercado-central-tulcan",
+        "order": 1,
+        "activity": "Plato fuerte de Hornado Pastuso con llapingachos y mote",
+        "suggestedTime": "1 hora"
+      },
+      {
+        "placeId": "cafe-tulcan",
+        "order": 2,
+        "activity": "Bizcochos con queso amasado y sándwich de pernil",
+        "suggestedTime": "1 hora"
+      },
+      {
+        "placeId": "cuyes-y-gallinas-olmedo",
+        "order": 3,
+        "activity": "Degustación de cuy asado al carbón o caldo de gallina",
+        "suggestedTime": "1 hora"
+      },
+      {
+        "placeId": "chanul-restobar",
+        "order": 4,
+        "activity": "Cena o brindis con cervezas artesanales y parrilla andina",
+        "suggestedTime": "1 hora"
+      }
+    ],
+    "highlights": [
+      "Hornado Pastuso",
+      "Bizcochos desde 1945",
+      "Cuy Tradicional",
+      "Cerveza Artesanal"
+    ],
+    "recommendedTransport": "A pie por el centro urbano"
+  },
+  {
+    "id": "ruta-paramo-volcanes",
+    "name": "Ruta de Naturaleza, Volcanes & Termales",
+    "tagline": "Frailejones gigantes, aguas medicinales y cumbres andinas",
+    "category": "naturaleza",
+    "duration": "Día completo (7 a 9 horas)",
+    "difficulty": "Moderado / Alta Montaña",
+    "totalDistanceKm": 54.0,
+    "estimatedTimeMinutes": 500,
+    "description": "Descubre la majestuosidad del páramo carchense, el bosque de frailejones de El Ángel, las termas volcánicas de Tufiño y las faldas del imponente Volcán Chiles.",
+    "color": "#06b6d4",
+    "places": [
+      {
+        "placeId": "complejo-termal-aguas-hediondas",
+        "order": 1,
+        "activity": "Baño termal relajante en aguas azufradas a 45°C",
+        "suggestedTime": "2 horas"
+      },
+      {
+        "placeId": "volcan-chiles",
+        "order": 2,
+        "activity": "Caminata panorámica hacia las Lagunas Verdes",
+        "suggestedTime": "2.5 horas"
+      },
+      {
+        "placeId": "reserva-ecologica-el-angel",
+        "order": 3,
+        "activity": "Senderismo entre miles de frailejones gigantes en El Voladero",
+        "suggestedTime": "2.5 horas"
+      }
+    ],
+    "highlights": [
+      "Frailejones de 6 metros",
+      "Termas de Tufiño",
+      "Lagunas Verdes Esmeralda",
+      "Volcán Chiles"
+    ],
+    "recommendedTransport": "Vehículo 4x4 o camioneta de turismo"
+  },
+  {
+    "id": "ruta-fotografica-iconica",
+    "name": "Ruta Fotográfica & Lugares Emblemáticos",
+    "tagline": "Los mejores encuadres, esculturas y paisajes de Tulcán",
+    "category": "fotografica",
+    "duration": "5 horas",
+    "difficulty": "Fácil",
+    "totalDistanceKm": 18.0,
+    "estimatedTimeMinutes": 300,
+    "description": "Diseñada especialmente para fotógrafos, creadores de contenido y amantes de la arquitectura visual andina.",
+    "color": "#eab308",
+    "places": [
+      {
+        "placeId": "cementerio-municipal-jose-maria-azael-franco",
+        "order": 1,
+        "activity": "Sesión fotográfica con los arcos y figuras de ciprés",
+        "suggestedTime": "1.5 horas"
+      },
+      {
+        "placeId": "parque-de-la-independencia",
+        "order": 2,
+        "activity": "Capturas de la estatua de La Libertad y frontis de la Catedral",
+        "suggestedTime": "45 min"
+      },
+      {
+        "placeId": "teatro-lemarie",
+        "order": 3,
+        "activity": "Detalles arquitectónicos de la fachada colonial/modernista",
+        "suggestedTime": "30 min"
+      },
+      {
+        "placeId": "puente-internacional-rumichaca",
+        "order": 4,
+        "activity": "Fotografía del puente natural sobre el cañón del río Carchi",
+        "suggestedTime": "1 hora"
+      },
+      {
+        "placeId": "monumento-richard-carapaz",
+        "order": 5,
+        "activity": "Foto recuerdo en el homenaje a la gloria del ciclismo",
+        "suggestedTime": "45 min"
+      }
+    ],
+    "highlights": [
+      "Topiaria única en el mundo",
+      "Cañón del Río Carchi",
+      "Teatro Patrimonial",
+      "Monumento Richard Carapaz"
+    ],
+    "recommendedTransport": "Taxi o auto particular"
+  }
+]
