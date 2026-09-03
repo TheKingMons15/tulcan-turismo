@@ -1,8 +1,14 @@
 import express from "express";
 import cors from "cors";
+import path from "path";
+import fs from "fs";
+import { fileURLToPath } from "url";
 import placesRoutes from "./routes/places.js";
 import categoriesRoutes from "./routes/categories.js";
 import itinerariesRoutes from "./routes/itineraries.js";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -31,6 +37,20 @@ app.get("/api/health", (req, res) => {
   });
 });
 
+// Serve frontend dist static files if built
+const frontendDistPath = path.join(__dirname, "../../frontend/dist");
+if (fs.existsSync(frontendDistPath)) {
+  app.use(express.static(frontendDistPath));
+  app.get("*", (req, res) => {
+    if (!req.path.startsWith("/api")) {
+      res.sendFile(path.join(frontendDistPath, "index.html"));
+    }
+  });
+}
+
 app.listen(PORT, () => {
-  console.log(`🚀 Servidor Tulcán Turismo API ejecutándose en http://localhost:${PORT}`);
+  console.log(`🚀 Servidor Tulcán Turismo ejecutándose en http://localhost:${PORT}`);
+  if (fs.existsSync(frontendDistPath)) {
+    console.log(`📱 App Web disponible en http://localhost:${PORT}`);
+  }
 });
