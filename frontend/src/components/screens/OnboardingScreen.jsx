@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { Menu, Bell, MapPin, Compass, ArrowRight, Sparkles, Mountain } from 'lucide-react';
+import { Menu, Bell, MapPin, Compass, ArrowRight, Sparkles, Mountain, LogIn } from 'lucide-react';
 import { useApp } from '../../context/AppContext';
 
 export function OnboardingScreen() {
-  const { navigateTo, setIsAuthModalOpen, setAuthMode, setIsSideDrawerOpen, setIsNotificationModalOpen } = useApp();
+  const { navigateTo, setAuthMode, setIsSideDrawerOpen, setIsNotificationModalOpen } = useApp();
   const [activeSlide, setActiveSlide] = useState(0);
 
   const slides = [
@@ -24,8 +24,13 @@ export function OnboardingScreen() {
     }
   ];
 
+  const handleStartLogin = (mode = 'login') => {
+    setAuthMode(mode);
+    navigateTo('auth');
+  };
+
   return (
-    <div className="relative min-h-screen flex flex-col justify-between p-6 overflow-hidden bg-slate-950 text-slate-100">
+    <div className="relative min-h-[820px] h-full flex flex-col justify-between p-6 overflow-hidden bg-slate-950 text-slate-100 animate-fade-in">
       {/* Background Image with Ambient Glow */}
       <div 
         className="absolute inset-0 bg-cover bg-center transition-all duration-1000 scale-105"
@@ -56,7 +61,7 @@ export function OnboardingScreen() {
       </div>
 
       {/* Central Brand Illustration & Tagline */}
-      <div className="relative z-10 max-w-sm mx-auto my-auto text-center flex flex-col items-center gap-6">
+      <div className="relative z-10 max-w-sm mx-auto my-auto text-center flex flex-col items-center gap-5">
         {/* Mountain & Location Logo Icon */}
         <div className="relative flex items-center justify-center">
           <div className="w-24 h-24 rounded-3xl bg-gradient-to-tr from-emerald-600 via-emerald-500 to-teal-400 p-1 shadow-2xl shadow-emerald-500/30">
@@ -81,7 +86,7 @@ export function OnboardingScreen() {
         </div>
 
         {/* Dynamic Tagline */}
-        <div className="px-4 min-h-[70px]">
+        <div className="px-4 min-h-[60px]">
           <p className="text-sm font-medium text-slate-200 leading-relaxed drop-shadow">
             {slides[activeSlide].title}
           </p>
@@ -91,7 +96,7 @@ export function OnboardingScreen() {
         </div>
 
         {/* Carousel Pagination Dots */}
-        <div className="flex items-center gap-2 mt-2">
+        <div className="flex items-center gap-2 mt-1">
           {slides.map((_, idx) => (
             <button
               key={idx}
@@ -106,10 +111,10 @@ export function OnboardingScreen() {
         </div>
       </div>
 
-      {/* Bottom Actions */}
-      <div className="relative z-10 max-w-sm mx-auto w-full flex flex-col gap-3 pb-6">
+      {/* Bottom Actions (Screen 1 Buttons from wireframe) */}
+      <div className="relative z-10 max-w-sm mx-auto w-full flex flex-col gap-3 pb-4">
         <button
-          onClick={() => navigateTo('home')}
+          onClick={() => handleStartLogin('login')}
           className="w-full py-4 px-6 rounded-2xl bg-gradient-to-r from-emerald-500 to-teal-600 text-white font-extrabold text-sm shadow-xl shadow-emerald-500/25 hover:from-emerald-400 hover:to-teal-500 hover:scale-[1.02] active:scale-[0.98] transition-all flex items-center justify-center gap-2"
         >
           <span>Explorar</span>
@@ -117,13 +122,10 @@ export function OnboardingScreen() {
         </button>
 
         <button
-          onClick={() => {
-            setAuthMode('login');
-            setIsAuthModalOpen(true);
-          }}
-          className="w-full py-3 text-center text-xs font-semibold text-slate-300 hover:text-emerald-400 transition"
+          onClick={() => handleStartLogin('login')}
+          className="w-full py-2.5 text-center text-xs font-semibold text-slate-300 hover:text-emerald-400 transition"
         >
-          ¿Ya tienes cuenta? <span className="underline">Iniciar sesión</span>
+          ¿Ya tienes cuenta? <span className="underline font-bold text-emerald-400">Iniciar sesión</span>
         </button>
       </div>
     </div>

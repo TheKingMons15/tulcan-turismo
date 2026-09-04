@@ -6,13 +6,13 @@ import { calculateDistanceKm } from '../utils/distance';
 
 const AppContext = createContext();
 
-const INITIAL_USER = {
+const DEFAULT_GUEST = {
   name: 'Yohana',
   email: 'yohana.tulcan@gmail.com',
   phone: '+593 99 876 5432',
   avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80',
-  isAuthenticated: true,
-  memberSince: 'Mayo 2024'
+  isAuthenticated: false,
+  memberSince: 'Septiembre 2026'
 };
 
 const INITIAL_BOOKINGS = {
@@ -62,12 +62,11 @@ const INITIAL_BOOKINGS = {
 };
 
 export function AppProvider({ children }) {
-  // Navigation Screen State: 'onboarding' | 'home' | 'explore' | 'place-detail' | 'route-map' | 'favorites' | 'bookings' | 'profile'
+  // Screen State: 'onboarding' | 'auth' | 'home' | 'explore' | 'place-detail' | 'route-map' | 'favorites' | 'bookings' | 'profile'
   const [currentScreen, setCurrentScreen] = useState('onboarding');
-  const [previousScreen, setPreviousScreen] = useState('home');
+  const [previousScreen, setPreviousScreen] = useState('onboarding');
 
   // Modals & Drawers
-  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
   const [authMode, setAuthMode] = useState('login'); // 'login' | 'register'
   const [isSideDrawerOpen, setIsSideDrawerOpen] = useState(false);
   const [isNewBookingModalOpen, setIsNewBookingModalOpen] = useState(false);
@@ -79,13 +78,13 @@ export function AppProvider({ children }) {
   // App View Frame Toggle (Mobile phone mockup vs Full screen)
   const [isMobileFrame, setIsMobileFrame] = useState(true);
 
-  // User State
+  // User State - Start not logged in so Login Screen is shown
   const [user, setUser] = useState(() => {
     try {
       const saved = localStorage.getItem('turismo_conecta_user');
-      return saved ? JSON.parse(saved) : INITIAL_USER;
+      return saved ? JSON.parse(saved) : DEFAULT_GUEST;
     } catch {
-      return INITIAL_USER;
+      return DEFAULT_GUEST;
     }
   });
 
@@ -99,7 +98,7 @@ export function AppProvider({ children }) {
   const [routeDestination, setRouteDestination] = useState(placesData[0]);
   const [selectedCategory, setSelectedCategory] = useState('todos');
   const [searchQuery, setSearchQuery] = useState('');
-  const [filterChip, setFilterChip] = useState('todos'); // 'todos' | 'precio' | 'distancia' | 'popular'
+  const [filterChip, setFilterChip] = useState('todos');
 
   // Favorites
   const [favoriteIds, setFavoriteIds] = useState(() => {
@@ -121,14 +120,14 @@ export function AppProvider({ children }) {
     }
   });
 
-  // User Geolocation (default to Central Tulcan)
+  // User Geolocation
   const [userLocation, setUserLocation] = useState({ lat: 0.8115, lng: -77.7185 });
 
   // Notifications
   const [notifications] = useState([
-    { id: 1, title: "¡Bienvenido a Tulcán!", desc: "Disfruta de la Centinela del Norte y su arte en ciprés.", time: "Hace 10 min", read: false },
-    { id: 2, title: "Clima en Carchi", desc: "Día fresco andino (12°C). Ideal para visitar Aguas Hediondas.", time: "Hace 1 hora", read: false },
-    { id: 3, title: "Reserva confirmada", desc: "Tu tour al Cementerio de Tulcán está listo para el 15 de mayo.", time: "Ayer", read: true },
+    { id: 1, title: "¡Bienvenida Yohana!", desc: "Disfruta de Tulcán y sus atractivos turísticos.", time: "Hace 5 min", read: false },
+    { id: 2, title: "Clima en Carchi", desc: "Temperatura andina agradable (14°C) para recorrer el centro.", time: "Hace 1 hora", read: false },
+    { id: 3, title: "Reserva confirmada", desc: "Tu tour al Cementerio de Tulcán está agendado para el 15 de mayo.", time: "Ayer", read: true },
   ]);
 
   // Persist User & Favorites
@@ -145,12 +144,8 @@ export function AppProvider({ children }) {
   // Navigation helpers
   const navigateTo = (screen, payload = null) => {
     setPreviousScreen(currentScreen);
-    if (payload?.place) {
-      setSelectedPlace(payload.place);
-    }
-    if (payload?.destination) {
-      setRouteDestination(payload.destination);
-    }
+    if (payload?.place) setSelectedPlace(payload.place);
+    if (payload?.destination) setRouteDestination(payload.destination);
     setCurrentScreen(screen);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
@@ -180,8 +175,6 @@ export function AppProvider({ children }) {
         currentScreen,
         navigateTo,
         goBack,
-        isAuthModalOpen,
-        setIsAuthModalOpen,
         authMode,
         setAuthMode,
         isSideDrawerOpen,

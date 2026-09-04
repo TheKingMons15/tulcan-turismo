@@ -3,6 +3,7 @@ import { AppProvider, useApp } from './context/AppContext';
 import { BottomNavBar } from './components/navigation/BottomNavBar';
 import { SideDrawer } from './components/navigation/SideDrawer';
 import { OnboardingScreen } from './components/screens/OnboardingScreen';
+import { AuthScreen } from './components/screens/AuthScreen';
 import { HomeScreen } from './components/screens/HomeScreen';
 import { ExploreScreen } from './components/screens/ExploreScreen';
 import { PlaceDetailScreen } from './components/screens/PlaceDetailScreen';
@@ -10,7 +11,6 @@ import { RouteNavigationScreen } from './components/screens/RouteNavigationScree
 import { FavoritesScreen } from './components/screens/FavoritesScreen';
 import { BookingsScreen } from './components/screens/BookingsScreen';
 import { ProfileScreen } from './components/screens/ProfileScreen';
-import { AuthModal } from './components/screens/AuthModal';
 import { NewBookingModal } from './components/modals/NewBookingModal';
 import { EditProfileModal } from './components/modals/EditProfileModal';
 import { NotificationModal } from './components/modals/NotificationModal';
@@ -31,6 +31,8 @@ function AppContent() {
     switch (currentScreen) {
       case 'onboarding':
         return <OnboardingScreen />;
+      case 'auth':
+        return <AuthScreen />;
       case 'home':
         return <HomeScreen />;
       case 'explore':
@@ -46,13 +48,15 @@ function AppContent() {
       case 'profile':
         return <ProfileScreen />;
       default:
-        return <HomeScreen />;
+        return <OnboardingScreen />;
     }
   };
 
+  const showBottomNav = currentScreen !== 'onboarding' && currentScreen !== 'auth';
+
   return (
     <div className="min-h-screen bg-slate-950 flex flex-col items-center justify-center text-slate-100 font-sans selection:bg-emerald-500 selection:text-white relative">
-      {/* Top Device View Toggle Bar (Allows previewing in Mobile Phone Frame or Fullscreen) */}
+      {/* Top Device View Toggle Bar */}
       <div className="fixed top-2 right-2 z-40 flex items-center gap-1.5 p-1 rounded-xl bg-slate-900/80 backdrop-blur-md border border-white/10 text-xs shadow-xl hidden sm:flex">
         <button
           onClick={() => setIsMobileFrame(true)}
@@ -79,7 +83,7 @@ function AppContent() {
       {/* Main Container Wrapper */}
       <div className={`w-full transition-all duration-300 ${
         isMobileFrame 
-          ? 'max-w-md my-4 sm:my-6 rounded-[36px] border-4 border-slate-800 shadow-[0_0_60px_rgba(16,185,129,0.15)] overflow-hidden bg-slate-950 relative min-h-[850px] flex flex-col justify-between'
+          ? 'max-w-md my-4 sm:my-6 rounded-[36px] border-4 border-slate-800 shadow-[0_0_60px_rgba(16,185,129,0.15)] overflow-hidden bg-slate-950 relative min-h-[840px] flex flex-col justify-between'
           : 'max-w-3xl min-h-screen flex flex-col justify-between'
       }`}>
         {/* Dynamic Screen Content */}
@@ -87,13 +91,12 @@ function AppContent() {
           {renderActiveScreen()}
         </div>
 
-        {/* Bottom Navigation Bar */}
-        <BottomNavBar />
+        {/* Bottom Navigation Bar (Hidden on Onboarding & Auth) */}
+        {showBottomNav && <BottomNavBar />}
       </div>
 
       {/* Side Drawer & Global Modals */}
       <SideDrawer />
-      <AuthModal />
       <NewBookingModal />
       <EditProfileModal />
       <NotificationModal />
