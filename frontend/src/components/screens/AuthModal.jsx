@@ -4,9 +4,9 @@ import { useApp } from '../../context/AppContext';
 
 export function AuthModal() {
   const { isAuthModalOpen, setIsAuthModalOpen, authMode, setAuthMode, setUser, navigateTo } = useApp();
-  const [email, setEmail] = useState('maria.lopez@gmail.com');
-  const [password, setPassword] = useState('tulcan2026');
-  const [name, setName] = useState('María López');
+  const [email, setEmail] = useState('yohana.tulcan@gmail.com');
+  const [password, setPassword] = useState('yohana2026');
+  const [name, setName] = useState('Yohana');
   const [message, setMessage] = useState('');
 
   if (!isAuthModalOpen) return null;

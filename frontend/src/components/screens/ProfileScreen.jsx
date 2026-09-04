@@ -38,7 +38,7 @@ export function ProfileScreen() {
         </div>
       </div>
 
-      {/* User Card: Avatar, Name (María López), Email (Screen 9 Card) */}
+      {/* User Card: Avatar, Name (Yohana), Email (Screen 9 Card) */}
       <div className="p-5 rounded-3xl glass-panel border border-white/10 flex items-center gap-4 shadow-xl">
         <img
           src={user.avatar}

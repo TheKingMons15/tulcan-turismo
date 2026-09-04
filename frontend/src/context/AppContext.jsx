@@ -7,8 +7,8 @@ import { calculateDistanceKm } from '../utils/distance';
 const AppContext = createContext();
 
 const INITIAL_USER = {
-  name: 'María López',
-  email: 'maria.lopez@gmail.com',
+  name: 'Yohana',
+  email: 'yohana.tulcan@gmail.com',
   phone: '+593 99 876 5432',
   avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80',
   isAuthenticated: true,
